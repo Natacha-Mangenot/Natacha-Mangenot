@@ -1,7 +1,7 @@
-## Hi there 👋
-I am a biomedical science MSc student in the Netherlands!
-I'm new to Github. 
-Currently, I am trying to learn how to code in python 🐍 !
+## Hi there 👋\
+I am a biomedical science MSc student in the Netherlands!\
+I'm new to Github.\
+Currently, I am trying to learn how to code in python 🐍 !\
 
 <!--
 **Natacha-Mangenot/Natacha-Mangenot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
